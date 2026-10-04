@@ -1,0 +1,15 @@
+# Secrets - JANGAN PERNAH di-commit!
+.env
+credentials.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Data lokal
+*.xlsx
+
+# OS
+.DS_Store
